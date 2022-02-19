@@ -47,6 +47,7 @@ public class ArraySumDriver {
 	 * @param arr array of Integers
 	 * @param num index of array to sum all previous index values (including num)
 	 * @return sum of array values
+	 * @author CCPaulHipolito
 	 */
 	public static <T> int sumOfArray(Integer[] arr, int num) {
 		if(num < 0) 
