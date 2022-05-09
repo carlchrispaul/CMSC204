@@ -1,0 +1,6 @@
+Road1,5;Town1;Town2
+Road2,6;Town1;Town3
+Road3,10;Town1;Town5
+Road4,8;Town2;Town4
+Road5,3;Town4;Town5
+Road6,3;Town3;Town5
